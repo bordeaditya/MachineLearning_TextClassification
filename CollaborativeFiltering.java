@@ -1,6 +1,5 @@
 /*	
  * Author Name : Aditya Borde
- * Net Id : asb140930 	
  * Function : Collaborative Filtering for Netflix
  */
 
